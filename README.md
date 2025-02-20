@@ -27,23 +27,7 @@ The project integrates three datasets:
 └── requirements.txt      # Dependencies for running the analysis
 ```
 
-## Setup Instructions
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/consumer-behavior-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd consumer-behavior-analysis
-   ```
-3. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-4. Run the analysis using Jupyter Notebook:
-   ```sh
-   jupyter notebook
-   ```
+
 
 ## Tools & Libraries
 - Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy)
