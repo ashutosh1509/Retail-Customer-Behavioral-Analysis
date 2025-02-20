@@ -21,7 +21,6 @@ The project integrates three datasets:
 📂 consumer-behavior-analysis
 ├── 📁 data                # Contains sample data files (demographics.xlsx, behavior.json, campaign.json)
 ├── 📁 notebooks           # Jupyter notebooks with exploratory analysis and visualizations
-├── 📁 scripts             # Python scripts for data processing and analysis
 ├── 📁 reports             # PowerPoint presentation and summary reports
 ├── README.md             # Project overview and instructions
 └── requirements.txt      # Dependencies for running the analysis
@@ -36,9 +35,6 @@ The project integrates three datasets:
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or report issues.
-
-## License
-MIT License
 
 ---
 This repository serves as a structured approach to understanding consumer purchasing behavior and campaign performance.
